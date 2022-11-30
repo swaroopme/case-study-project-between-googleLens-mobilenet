@@ -1,0 +1,41 @@
+#h11 {
+    font-size: 30px;
+}
+
+#d1 {
+    background-color: grey;
+    border-radius: 10px;
+    color: white; 
+    box-shadow: 20px;
+}
+
+#hh {
+    border-radius: 20000000000000000000000000000000000000000000000000000000000000000px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(131, 131, 131);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(224, 224, 224);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+  }
+
+  #hhh {
+    color: red;
+  }
+
+  #h3 {
+    color: red;
+  }
+
+  #red {
+    color: red;
+  }
